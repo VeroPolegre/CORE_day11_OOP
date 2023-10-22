@@ -13,11 +13,6 @@ Create a Student class, which inherits from Person, and includes the course and 
 
 Create a Professor class, which inherits from Person, and includes the subject and level properties and the assign() method, which displays the result on the screen.
 
-Extras:
-
-https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-kata-mayas-y-aztecas
-
-https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-pp-il-sogno-di-volare
 
 | HTML | JS |
 
